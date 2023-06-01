@@ -1,0 +1,14 @@
+data_a={'id':['1','2','3'],
+'isim':['Mert','Fethi','Makber'],
+'soyisim':['Cobanov','Tekyaygil','Blackwater']}
+
+data_b={'id':['4','5','6'],
+'isim':['Kadir','Yasemin','Melis'],
+'soyisim':['Gates','Currie','Lisa']}
+
+
+employee_data={'employee_id':['1','2','3','4'],
+'name':['Mert Cobanov','Fethi Tekyaygil','Segaf Blackwater','Tim Hortan']}
+
+sales_date={'employee_id':['3','4','5','6'],
+'total_sales':[23456,2512,2345,1455]}
